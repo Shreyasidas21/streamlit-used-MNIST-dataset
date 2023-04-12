@@ -1,1 +1,1 @@
-# streamlit-used-MNIST-dataset
+# Streamlit-used-MNIST-dataset
